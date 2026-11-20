@@ -5,6 +5,7 @@ each land cell becomes one dot, which keeps the continents
 recognisable at small sizes without any external geography file.
 Segment columns are inclusive and follow the grid rule
 column = (longitude + 180) / 3.75, row = (84 - latitude) / 3.36.
+The grid is deliberately coarse: recognition over precision.
 """
 
 from PIL import Image, ImageDraw, ImageFont

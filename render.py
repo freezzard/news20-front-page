@@ -5,7 +5,8 @@ Layout, top to bottom: kicker and masthead, region tally bar, the
 day in numbers, three hero cards, ten mid cards in two rows, the
 date-check strip, then the pinned world map beside the briefs.
 Card text budgets were measured against the real fonts, so every
-headline and summary fits its card without clipping.
+headline and summary fits its card without clipping. The map
+pins and the brief dots use the same numbering as the cards.
 """
 
 import os

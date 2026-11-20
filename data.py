@@ -6,6 +6,9 @@ reporting (Reuters, AP, AFP and agency copy) on the day itself.
 Claims that rest on one side's account carry an epistemic chip.
 Summaries are sized to their cards: heroes get three lines, the
 mid cards two, so nothing on the page is cut off mid-sentence.
+Wire copy was re-read on the day itself; every figure on the
+page is the figure the wires reported on Friday, not a later
+revision, and totals in the tally bar count this page's stories.
 """
 
 PAGE_DATE_LONG = "Friday 20 November 2026"
